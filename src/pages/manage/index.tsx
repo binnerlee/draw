@@ -2,7 +2,7 @@
  * @Author: lgb
  * @Date: 2022-07-18 15:43:23
  * @LastEditors: lgb
- * @LastEditTime: 2022-07-19 09:19:44
+ * @LastEditTime: 2022-07-19 09:33:18
  * @Description: 
  */
 import React, { useContext, useRef } from 'react';
@@ -120,6 +120,7 @@ export default () => {
             <tr>
                 <td colSpan={3}>
                     这个程序带有map文件，在chrome源码选项中可以查看代码。
+                    也可以在github上查看源码：https://github.com/binnerlee/draw
                 </td>
             </tr>
             </tbody>
